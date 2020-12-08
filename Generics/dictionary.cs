@@ -10,7 +10,7 @@ public class Program
 			{"UK", "London, Manchester, Birmingham"},
 			{"USA", "Chicago, New York, Washington"},
 			{"India", "Mumbai, New Delhi, Pune"}
-		}
+		};
 
 		Console.WriteLine(cities["UK"]);
 		Console.WriteLine(cities["India"]);
