@@ -7,7 +7,6 @@ public class Program
 {
 	public static void Main()
 	{
-		// Student collection
 		IList<Student> studentList = new List<Student>() {
 				new Student() { StudentID = 1, StudentName = "pardhu", Age = 13} ,
 				new Student() { StudentID = 2, StudentName = "kumar",  Age = 21 } ,
@@ -18,7 +17,6 @@ public class Program
 				new Student() { StudentID = 5, StudentName = "Red" , Age = 49 }
 			};
 
-		// LINQ Query Syntax to find out teenager students
 		var teenAgerStudent = from s in studentList
 							  where s.Age > 12 && s.Age < 24
 							  select s;
