@@ -1,0 +1,12 @@
+C:\Users\kumar\source\repos\Calculation\Calculation\bin\Debug\Calculation.dll
+C:\Users\kumar\source\repos\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\kumar\source\repos\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+C:\Users\kumar\source\repos\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\kumar\source\repos\Calculation\Calculation\obj\Debug\Calculation.dll
+C:\Users\kumar\source\repos\Calculation\Calculation\obj\Debug\Calculation.pdb
+D:\c#\lib\Calculation\Calculation\bin\Debug\Calculation.dll
+D:\c#\lib\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\c#\lib\Calculation\Calculation\obj\Debug\Calculation.csprojAssemblyReference.cache
+D:\c#\lib\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\c#\lib\Calculation\Calculation\obj\Debug\Calculation.dll
+D:\c#\lib\Calculation\Calculation\obj\Debug\Calculation.pdb
