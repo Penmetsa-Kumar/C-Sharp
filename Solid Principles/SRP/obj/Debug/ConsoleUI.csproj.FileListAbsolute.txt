@@ -1,0 +1,7 @@
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Downloads\SingleResponsibilityPrincipleDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
